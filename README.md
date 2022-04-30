@@ -1,5 +1,5 @@
 ## Hi
-I'm zenpk, from Beihang University.
+I'm zenpk, from Peking University.
 
 LeetCode: https://leetcode-cn.com/u/zenpk/
 
